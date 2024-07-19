@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="github/roteiro.png" width="100%">
+  <img alt="Projeto" src="roteiro.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
